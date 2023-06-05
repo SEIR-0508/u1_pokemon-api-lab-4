@@ -7,7 +7,6 @@ button.addEventListener('click', async () => {
     let pokemonName = document.querySelector("#pokemonName")
     let pokemonImage = document.querySelector("#pokemonImage")
     let pokemonSpecies = document.querySelector("#pokemonSpecies")
-    let pokemonDescription = document.querySelector("#pokemonDescription")
 
     let textInput = document.querySelector("#inputBar").value
 
